@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TabelaFipe</string>
+    <string name="str_marca">Marca</string>
+    <string name="str_veiculo">Veiculo</string>
+</resources>
